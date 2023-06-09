@@ -1,0 +1,1 @@
+simu -mgen.ma -lgen.log -ogen.out

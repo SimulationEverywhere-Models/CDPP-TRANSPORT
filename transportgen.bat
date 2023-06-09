@@ -1,0 +1,1 @@
+simu -mtransportgen.ma -ltransportgen.log -otransportgen.out

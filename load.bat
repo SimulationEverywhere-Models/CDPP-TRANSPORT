@@ -1,0 +1,1 @@
+simu -mload.ma -lload.log -oload.out
